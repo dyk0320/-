@@ -46,7 +46,6 @@ selenium_click(driver, '//*[@id="pane-daily_info_tab"]/form/div[14]/div/label[2]
 #疫情诊断
 #selenium_click(driver, '//*[@id="pane-daily_info_tab"]/form/div[14]/div/div/div/span')
 #selenium_click(driver, '/html/body/div[2]/div[1]/div[1]/ul/li[1]/span')
-
 selenium_click(driver, '//*[@id="pane-daily_info_tab"]/form/div[15]/div/div/div[1]/span')
 selenium_click(driver, '/html/body/div[2]/div[1]/div[1]/ul/li[1]/span')
 
